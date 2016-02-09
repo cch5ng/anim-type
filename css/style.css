@@ -1,0 +1,49 @@
+/* css/style.css */
+
+body {
+	box-sizing: content-box;
+}
+
+/*.typed-cursor{
+    opacity: 1;
+    -webkit-animation: blink 0.7s infinite;
+    -moz-animation: blink 0.7s infinite;
+    animation: blink 0.7s infinite;
+}
+@keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-webkit-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-moz-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}*/
+
+.banner {
+	background-color: #b3abac;
+	width: 728px;
+	height: 90px;
+	margin: 0 auto;
+
+}
+
+.spooky {
+	color: #522029;
+	font-family: 'Varela', sans-serif;
+	/*font-family: 'Philosopher', sans-serif;*/
+	/*font-family: 'Cinzel', serif;*/
+	/*font-family: 'EB Garamond', serif;*/
+	/*font-family: 'Bangers', cursive;*/ /* in most other cases this would be really bad style but seems to fit here */
+	/*font-family: 'Libre Baskerville', serif;*/
+	/*font-family: 'Cardo', serif;*/
+	font-size: 1.8em;
+	padding-top: 20px;
+	padding-left: 50px;
+}
