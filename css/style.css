@@ -31,7 +31,20 @@ body {
 	width: 728px;
 	height: 90px;
 	margin: 0 auto;
+}
 
+.banner2 {
+	background-color: #406325;
+	width: 728px;
+	height: 90px;
+	margin: 0 auto;
+}
+
+.banner3 {
+	background-color: #ffba3f;
+	width: 728px;
+	height: 90px;
+	margin: 0 auto;
 }
 
 .spooky {
@@ -44,6 +57,22 @@ body {
 	/*font-family: 'Libre Baskerville', serif;*/
 	/*font-family: 'Cardo', serif;*/
 	font-size: 1.8em;
+	padding-top: 20px;
+	padding-left: 50px;
+}
+
+.yoda {
+	color: #000;
+	font-family: 'Libre Baskerville', serif;
+	font-size: 1.8em;
+	padding-top: 20px;
+	padding-left: 50px;
+}
+
+.extraordinary {
+	color: #1355D5;
+	font-family: 'PT Sans', sans-serif;
+	font-size: 2.2em;
 	padding-top: 20px;
 	padding-left: 50px;
 }
